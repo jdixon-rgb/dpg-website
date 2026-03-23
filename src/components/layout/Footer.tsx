@@ -114,35 +114,36 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Bottom bar with compliance logos */}
+        {/* Bottom bar */}
         <div
           style={{ borderTop: '1px solid #2a2a2a', marginTop: '2rem', paddingTop: '1.5rem' }}
           className="flex flex-col sm:flex-row items-center justify-between gap-4"
         >
           <p style={{ color: '#5a5a5a', fontSize: '0.8rem', fontFamily: "'Roboto', sans-serif" }}>
-            &copy; {year} {SITE_NAME}. All rights reserved. &nbsp; v{APP_VERSION}
+            &copy; {year} {SITE_NAME}. All rights reserved. &nbsp;v{APP_VERSION}
           </p>
+          {/* Compliance logos */}
           <div className="flex items-center gap-4">
             <Image
               src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a18cf83453118587d2d5.png"
               alt="HomeSmart"
               width={80}
-              height={28}
-              style={{ objectFit: 'contain', opacity: 0.75, height: '28px', width: 'auto' }}
+              height={30}
+              style={{ objectFit: 'contain', opacity: 0.7 }}
             />
             <Image
               src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a18c5ba4981c04068d1d.png"
               alt="Equal Housing Opportunity"
-              width={28}
-              height={28}
-              style={{ objectFit: 'contain', opacity: 0.75, height: '28px', width: 'auto' }}
+              width={30}
+              height={30}
+              style={{ objectFit: 'contain', opacity: 0.7 }}
             />
             <Image
               src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a156f83453ba2987c90b.png"
               alt="Realtor"
-              width={28}
-              height={28}
-              style={{ objectFit: 'contain', opacity: 0.75, height: '28px', width: 'auto' }}
+              width={30}
+              height={30}
+              style={{ objectFit: 'contain', opacity: 0.7 }}
             />
           </div>
         </div>
