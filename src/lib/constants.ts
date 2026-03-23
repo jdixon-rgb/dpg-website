@@ -1,4 +1,4 @@
-export const APP_VERSION = '0.0.4';
+export const APP_VERSION = '0.0.5';
 export const SITE_NAME = 'Dixon Premier Group';
 export const SITE_TAGLINE = 'Arizona Real Estate Experts';
 export const SITE_PHONE = '(480) 555-0100';
