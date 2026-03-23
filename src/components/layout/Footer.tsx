@@ -132,6 +132,34 @@ export default function Footer() {
             v{APP_VERSION}
           </p>
         </div>
+
+        {/* Compliance logos */}
+        <div
+          style={{ borderTop: '1px solid #2a2a2a', marginTop: '1.5rem', paddingTop: '1.5rem' }}
+          className="flex items-center justify-center gap-8"
+        >
+          <Image
+            src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a18cf83453118587d2d5.png"
+            alt="HomeSmart"
+            width={110}
+            height={40}
+            style={{ objectFit: 'contain', opacity: 0.85 }}
+          />
+          <Image
+            src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a18c5ba4981c04068d1d.png"
+            alt="Equal Housing Opportunity"
+            width={40}
+            height={40}
+            style={{ objectFit: 'contain', opacity: 0.85 }}
+          />
+          <Image
+            src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a156f83453ba2987c90b.png"
+            alt="Realtor"
+            width={40}
+            height={40}
+            style={{ objectFit: 'contain', opacity: 0.85 }}
+          />
+        </div>
       </div>
     </footer>
   );
