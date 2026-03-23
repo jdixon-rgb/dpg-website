@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             <div className="mb-3">
               <Image
-                src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6850bca7681f2dfbcf1d623e.png"
+                src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/68a391f0a01f8e4ce88cdb8d.png"
                 alt={SITE_NAME}
                 width={160}
                 height={44}

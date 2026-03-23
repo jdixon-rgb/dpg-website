@@ -35,19 +35,6 @@ export default function HomePage() {
         />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-36" style={{ position: 'relative', zIndex: 2 }}>
           <div className="max-w-3xl">
-            <p
-              style={{
-                color: '#37ca37',
-                fontFamily: "'Poppins', sans-serif",
-                fontWeight: 600,
-                fontSize: '0.8rem',
-                letterSpacing: '0.15em',
-                textTransform: 'uppercase',
-                marginBottom: '1rem',
-              }}
-            >
-              Arizona Real Estate Experts
-            </p>
             <h1
               style={{
                 fontFamily: "'Poppins', sans-serif",
@@ -55,11 +42,24 @@ export default function HomePage() {
                 fontSize: 'clamp(2.5rem, 5vw, 4rem)',
                 color: '#f3f0ec',
                 lineHeight: 1.1,
+                marginBottom: '0.75rem',
+                textTransform: 'uppercase',
+              }}
+            >
+              Results-Driven Real Estate Solutions
+            </h1>
+            <p
+              style={{
+                color: '#37ca37',
+                fontFamily: "'Poppins', sans-serif",
+                fontWeight: 600,
+                fontSize: '1.1rem',
+                letterSpacing: '0.05em',
                 marginBottom: '1.5rem',
               }}
             >
-              Find Your Dream Home in Arizona
-            </h1>
+              Your Goals. Our Proven Expertise.
+            </p>
             <p
               style={{
                 color: '#c3bfb9',
