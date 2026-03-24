@@ -127,22 +127,22 @@ export default function Footer() {
             <Image
               src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a18cf83453118587d2d5.png"
               alt="HomeSmart"
-              width={80}
-              height={30}
+              width={96}
+              height={34}
               style={{ objectFit: 'contain', opacity: 0.7 }}
             />
             <Image
               src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a18c5ba4981c04068d1d.png"
               alt="Equal Housing Opportunity"
-              width={30}
-              height={30}
+              width={28}
+              height={28}
               style={{ objectFit: 'contain', opacity: 0.7 }}
             />
             <Image
               src="https://assets.cdn.filesafe.space/aneyGa6BKOlFDEDucy56/media/6998a156f83453ba2987c90b.png"
               alt="Realtor"
-              width={30}
-              height={30}
+              width={20}
+              height={24}
               style={{ objectFit: 'contain', opacity: 0.7 }}
             />
           </div>
