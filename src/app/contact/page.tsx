@@ -155,7 +155,7 @@ export default function ContactPage() {
                     <label style={{ color: '#9a9a9a', fontFamily: "'Roboto', sans-serif", fontSize: '0.8rem', display: 'block', marginBottom: '0.4rem' }}>
                       Phone Number
                     </label>
-                    <input name="phone" placeholder="(480) 555-0000" style={inputStyle} />
+                    <input name="phone" placeholder="(602) 214-3431" style={inputStyle} />
                   </div>
 
                   <div>

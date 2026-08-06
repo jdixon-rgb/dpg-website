@@ -150,7 +150,7 @@ export const sampleTeamMembers: TeamMember[] = [
     bio: 'Sarah has been a cornerstone of the Arizona real estate market for over 15 years. A native Arizonan, she founded Dixon Premier Group with a vision to deliver white-glove service and unmatched local expertise to every client. Her deep knowledge of the Phoenix metro market has helped hundreds of families find their dream homes.',
     photoUrl: null,
     email: 'sarah@dixonpremiergroup.com',
-    phone: '(480) 555-0101',
+    phone: '(602) 214-3431',
     sortOrder: 0,
   },
   {
@@ -160,7 +160,7 @@ export const sampleTeamMembers: TeamMember[] = [
     bio: "Marcus specializes in guiding first-time buyers and relocating families through the home purchase process with clarity and confidence. His patient approach and thorough market analysis ensure clients make informed decisions in Arizona's fast-moving market.",
     photoUrl: null,
     email: 'marcus@dixonpremiergroup.com',
-    phone: '(480) 555-0102',
+    phone: '(602) 214-3431',
     sortOrder: 1,
   },
   {
@@ -170,7 +170,7 @@ export const sampleTeamMembers: TeamMember[] = [
     bio: 'Lindsey brings a marketing-first mindset to every listing, combining professional photography, targeted digital campaigns, and strategic pricing to achieve premium results for sellers. Her listings average 98% of list price and sell in under 21 days.',
     photoUrl: null,
     email: 'lindsey@dixonpremiergroup.com',
-    phone: '(480) 555-0103',
+    phone: '(602) 214-3431',
     sortOrder: 2,
   },
 ];
